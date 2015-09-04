@@ -14,5 +14,5 @@ function draw() {
 	stroke(255, 0, 0);
 
 	// draw a circle
-	ellipse(320, 180, 100, 100);
+	rect(320, 180, 100, 100);
 }
